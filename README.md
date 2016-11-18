@@ -32,7 +32,7 @@ Use Meteor's client side DDP protocol and Minimongo in a non Meteor project.
 - [accounts-password](https://github.com/idanwe/accounts-password-client-side)
 - [accounts-phone](https://github.com/okland/accounts-phone)
 - [accounts-base](https://github.com/idanwe/accounts-base-client-side)
-
+- [session](https://github.com/AwsmOli/session-client-side)
 
 ### What I've done
 
